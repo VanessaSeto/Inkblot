@@ -1,5 +1,5 @@
 # Inkblot
-A digital tool for therapists
+Inkblot is a digital tool for therapists that performs sentimental analysis on a patient throughout a therapy session. It keeps track of client progress as they attend more therapy sessions, and gives therapists useful data points that aren't usually captured in typical hand-written notes.
 
 ## Description
 Learn more about our project at our [devpost](https://devpost.com/software/inkblot)
